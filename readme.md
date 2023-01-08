@@ -29,7 +29,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 <p align="center">
  <b>
-<a href="https://gestao-de-usuarios.surge.sh" target="_blank">Click here and play</a>
+<a href="https://sedate-polish.surge.sh/" target="_blank">Click here and play</a>
  </b>
 </p>
 
